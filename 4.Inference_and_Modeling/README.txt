@@ -1,0 +1,3 @@
+- The concepts necessary to define estimates and margins of errors of populations, parameters, estimates, and standard errors in order to make predictions about data
+- How to use models to aggregate data from different sources
+- The very basics of Bayesian statistics and predictive modeling
